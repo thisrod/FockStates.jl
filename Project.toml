@@ -1,0 +1,4 @@
+name = "FockStates"
+uuid = "44096eea-c914-4825-8130-61218e2112ad"
+authors = ["Rodney Polkinghorne <thisrod@gmail.com>"]
+version = "0.1.0"
